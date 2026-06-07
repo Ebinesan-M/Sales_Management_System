@@ -1,0 +1,5 @@
+matplotlib
+pandas
+streamlit
+psycopg2-binary
+plotly
